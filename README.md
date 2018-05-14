@@ -1,6 +1,7 @@
 # fullbattery
 
 This only works on Windows 10.
+
 ![alt text](https://raw.githubusercontent.com/farpras/fullbattery/master/ss.png "Example Notification")
 
 ## Installation
@@ -9,7 +10,7 @@ Download the .exe here:
 https://github.com/farpras/fullbattery/releases
 
 Then put the .exe file on StartUp folder:
-``` C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+> C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 
 So it will start monitoring everytime your laptop boots. You may also click on it right away to start running the program immediately.
 
