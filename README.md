@@ -3,6 +3,7 @@
 This only works on Windows 10.
 
 ![alt text](https://raw.githubusercontent.com/farpras/fullbattery/master/ss.png "Example Notification")
+Ignore my actual battery status :p I trigger it just for test.
 
 ## Installation
 
